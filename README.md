@@ -10,7 +10,7 @@ CoNHD is a hypergraph neural network tailored for modeling node features specifi
 </p>
 
 ## 🎉 News
-- 📢 Our paper titled "Modeling Edge-Specific Node Features through Co-Representation Neural Hypergraph Diffusion" has been accepted for publication in the Full Research Paper Track at CIKM 2025!
+- 📢 Our paper "[Modeling Edge-Specific Node Features through Co-Representation Neural Hypergraph Diffusion](https://arxiv.org/abs/2405.14286)" has been accepted by CIKM 2025 (Full Research Paper Track)!
 
 ## Getting Started
 
