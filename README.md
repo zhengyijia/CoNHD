@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### Preprocessing
 
-The datasets can be preprocessed using the following commands, which generates the initial node features through hypergraph random walk:
+The datasets can be preprocessed using the following commands, which generates the initial node features through hypergraph random walks:
 
 ```shell
 cd script
