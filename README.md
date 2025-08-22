@@ -50,7 +50,7 @@ cd script/edge_dependent_node_classification
 bash ./run_[emailEnron, emailEu, StackOverflowBiology, StackOverflowPhysics, DBLP, AMinerAuthor, cora_outsider, dblp_outsider, citeseer_outsider, pubmed_outsider].sh
 ```
 
-## Acknowledgement
+## Acknowledgements
 
 This project benefits from the following repositories:
 
