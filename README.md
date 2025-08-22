@@ -17,7 +17,8 @@ CoNHD is a hypergraph neural network tailored for modeling node features specifi
 ### Clone Repo
 
 ```shell
-git clone git@github.com:zhengyijia/CoNHD.git
+git lfs install
+GIT_LFS_SKIP_SMUDGE=0 git clone git@github.com:zhengyijia/CoNHD.git
 cd CoNHD
 ```
 
