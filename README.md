@@ -3,14 +3,14 @@
 [<img align="center" src="https://img.shields.io/badge/arXiv-2405.14286 CoNHD-b31b1b" />](https://arxiv.org/abs/2405.14286)
 [<img align="center" src="https://img.shields.io/badge/GitHub-CoNHD-blue" />](https://github.com/zhengyijia/CoNHD)
 
-CoNHD is a hypergraph neural network tailored for modeling node features specific to each hyperedge. This repository contains the official implementation of CoNHD. For more details, pleasse check our [paper](https://arxiv.org/abs/2405.14286).
+CoNHD is a hypergraph neural network tailored for modeling node features specific to each hyperedge. This repository contains the official implementation of CoNHD. For more details, pleasse check our [paper](https://doi.org/10.1145/3746252.3761094).
 
 <p align="left">
     <img src="assets/hgnn_architectures.png" width="100%">
 </p>
 
 ## 🎉 News
-- 📢 Our paper "[Modeling Edge-Specific Node Features through Co-Representation Neural Hypergraph Diffusion](https://arxiv.org/abs/2405.14286)" has been accepted by CIKM 2025 (Full Research Paper Track)!
+- 📢 Our paper "[Modeling Edge-Specific Node Features through Co-Representation Neural Hypergraph Diffusion](https://doi.org/10.1145/3746252.3761094)" has been accepted by CIKM 2025 (Full Research Paper Track)!
 
 ## Getting Started
 
@@ -68,13 +68,12 @@ We sincerely appreciate the developers of the above repositories.
 If you find this work useful or use this work in your research, please consider citing our paper:
 
 ```
-@misc{zheng2024co,
-      title={Co-Representation Neural Hypergraph Diffusion for Edge-Dependent Node Classification}, 
-      author={Yijia Zheng and Marcel Worring},
-      year={2024},
-      eprint={2405.14286},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2405.14286}, 
+@inproceedings{zheng2025modeling,
+  title={Modeling Edge-Specific Node Features through Co-Representation Neural Hypergraph Diffusion},
+  author={Yijia Zheng and Marcel Worring},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
+  pages={4444--4454},
+  year={2025},
+  url={https://doi.org/10.1145/3746252.3761094}
 }
 ```
